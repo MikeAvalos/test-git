@@ -6,5 +6,8 @@ IEXE Repositorio prueba
 
 Ejercicios de git
 
-![img.png](img.png)
+![Github log](/src/gitweb.png)
 
+![Git log](/src/gitlog.png)
+
+![comits](/src/comits.png)
